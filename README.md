@@ -7,6 +7,7 @@ venv (entorno virtual) es una herramienta que se utiliza en Python para crear en
 
 ```bash
 python3 -m venv venv
+source venv/bin/activate
 ```
 
 ## Instalar librerias de python
